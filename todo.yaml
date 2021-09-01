@@ -1,4 +1,4 @@
-#saa aaaaa
+#saa 
 apiVersion: v1
 kind: ReplicationController
 metadata:
